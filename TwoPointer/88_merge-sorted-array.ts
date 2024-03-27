@@ -22,6 +22,6 @@ function merge(nums1: number[], m: number, nums2: number[], n: number): void {
 }
 
 /*
-  Time Complexity: O(m + n)
+  Time Complexity: O(m)
   Space Complexity: O(1)
 */
