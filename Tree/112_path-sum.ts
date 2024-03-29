@@ -27,5 +27,5 @@ function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
 
 /*
   Time Complexity: O(n)
-  Space Complexity: O(n)
+  Space Complexity: O(k) - Height of tree
 */
